@@ -1,0 +1,610 @@
+*{
+  margin: 0px;
+  padding:0px;
+}
+
+
+
+nav ul center {
+
+  margin: auto;
+  background-color: #2EAB3C;
+  height: 30px;
+  width: auto;
+  text-align: center;
+}
+nav ul center a:first-child{
+  text-align: auto;
+  display: inline-block;
+  margin: 5px 30px 5px 0px;
+}
+
+a{
+  text-align: center;
+
+
+}
+
+h2{
+text-align: center;
+background-color:#1FF469;
+}
+h1{
+  margin:auto;
+
+}
+
+
+.INICIO{
+
+  width: 1700px;
+  height: 1700px;
+  background-color: black;
+
+}
+
+.art1  article:first-child {
+  width: 1390px;
+  height: 400px;
+border: solid;
+border-color: black;
+display: inline-block;
+margin: 20px
+}
+
+
+.art1  article:first-child section{
+width: 415px;
+height: 350px;
+border: solid;
+border-color: black;
+float: left;
+margin: 20px
+}
+
+.art2  article:first-child {
+  width: 1390px;
+  height: 400px;
+border: solid;
+border-color: black;
+display: inline-block;
+margin: 30px -4px;
+}
+
+
+.art2  article:first-child section{
+width: 415px;
+height: 350px;
+border: solid;
+border-color: black;
+float: left;
+margin: 20px
+}
+
+
+
+/*PAGINA 1*/
+
+/*BENIN*/
+.BENIN aside{
+width: 450px;
+height: 350px;
+margin: 0px 0px -70px 0px;
+text-align: center;
+}
+.BENIN aside nav:first-child {
+width: 150px;
+height: 250px;
+background-color: green;
+margin: 30px 0px 20px 30px;
+float: left;
+
+}
+.BENIN aside nav:nth-child(2){
+  width:200px;
+  height:125px;
+  background-color: yellow;
+  margin: 30px 0px 20px 0px;
+  float: left;
+
+}
+.BENIN aside nav:nth-child(3){
+
+width: 200px;
+height:125px;
+background-color: red;
+margin: 155px -200px  ;
+
+float: left;
+}
+/*CAMERUN*/
+
+.CAMERUN aside nav:first-child{
+width: 115px;
+height: 250px;
+background-color: green;
+margin: 30px 0px 0px 30px;
+float: left;
+
+}
+.CAMERUN aside nav:nth-child(2){
+width: 115px;
+height: 250px;
+background-color: red;
+margin: 30px 0px 0px 0px;
+float: left;
+text-align: center;
+
+}
+.CAMERUN aside nav:nth-child(2) img{
+      width: 50px;
+      margin: 93px 10px;
+
+}
+
+
+.CAMERUN aside nav:nth-child(3){
+width: 115px;
+height: 250px;
+background-color: yellow;
+margin: 30px 0px 0px 0px;
+float: left;
+
+}
+
+/*ISRAEL*/
+.ISRAEL  nav:first-child{
+width: 350px;
+height: 250px;
+background-color: #F4F6F6;
+margin: 30px 0px 0px 30px;
+float: left;
+
+}
+
+
+.ISRAEL  nav:first-child aside:first-child img{
+width: 80px;
+float: left;
+margin:50px 120px;
+
+}
+.ISRAEL  nav:first-child aside:first-child{
+width: 350px;
+height: 30px;
+background-color: blue;
+margin: 30px 0px ;
+float: left;
+
+}
+.ISRAEL  nav:first-child aside:nth-child(2){
+width: 350px;
+height: 30px;
+background-color: blue;
+margin: 100px 0px ;
+float: left;
+
+}
+
+
+/*CHILE*/
+.CHILE aside{
+width: 450px;
+height: 350px;
+margin: 0px 0px -70px 0px;
+text-align: center;
+}
+
+.CHILE aside nav:first-child {
+width: 120px;
+height: 125px;
+background-color: blue;
+margin: 30px 0px 0px 30px;
+float: left;
+
+}
+.CHILE aside nav:first-child img{
+    width: 80px;
+    float: left;
+    margin:24px 19px;
+
+  }
+
+
+
+.CHILE aside nav:nth-child(2){
+  width:230px;
+  height:125px;
+  background-color:#F2F3F4;
+  margin: 30px 0px 0px 0px;
+  float: left;
+
+}
+.CHILE aside nav:nth-child(3){
+
+width: 350px;
+height:125px;
+background-color: red;
+margin:  0px 30px;
+
+float: left;
+}
+
+/*SUIZA*/
+.SUIZA  nav:first-child{
+width: 350px;
+height:250px;
+background-color: red;
+margin:  30px 0px 0px 30px;
+float: left;
+}
+
+.SUIZA  nav:first-child aside:first-child{
+width: 60px;
+height:130px;
+background-color: white;
+margin:  60px 138px ;
+float: left;
+}
+.SUIZA  nav:first-child aside:nth-child(2) {
+width: 130px;
+height: 60px;
+background-color: white;
+margin:  90px 103px ;
+
+}
+
+
+/*PANAMA*/
+
+
+
+
+.PANAMA aside nav:first-child{
+
+  width: 176px;
+  height: 125px;
+  background-color: #F4F6F6;
+  margin: 30px 0px 0px 30px;
+  float: left;
+
+}
+
+
+.PANAMA aside nav:first-child img{
+  width: 80px;
+  float: left;
+  margin:18px 42px;
+
+}
+
+.PANAMA aside nav:nth-child(2){
+
+  width: 176px;
+  height: 125px;
+  background-color:#F41F43  ;
+  margin: 30px 0px 0px 0px;
+  float: left;
+
+}
+
+
+.PANAMA aside nav:nth-child(3){
+
+  width: 177px;
+  height: 125px;
+  background-color:#1C67B1;
+  margin: 0px 30px;
+  float: left;
+
+
+}
+
+.PANAMA aside nav:nth-child(4){
+
+  width: 176px;
+  height: 125px;
+  background-color:#F4F6F6;
+  margin: 0px -30px;
+  float: left;
+
+
+}
+
+.PANAMA aside nav:nth-child(4) img{
+  width: 80px;
+  float: left;
+  margin:18px 42px;
+
+}
+
+/*PAGINA 1*/
+
+/*COSTA_RICA*/
+
+.COSTA_RICA nav:first-child{
+
+width: 350px;
+height:35px;
+background-color: #0D0BB6;
+margin: 30px 30px 30px 30px;
+display: inline-block;
+
+}
+
+.COSTA_RICA nav:nth-child(2){
+width: 350px;
+height:35px;
+background-color:#F4F6F6  ;
+margin:-30px 30px;
+display: inline-block;
+
+}
+.COSTA_RICA nav:nth-child(3){
+width: 350px;
+height:100px;
+background-color:red;
+margin:10px 30px;
+display: inline-block;
+
+}
+
+.COSTA_RICA nav:nth-child(3) circulo{
+width: 80px;
+height:90px;
+background-color:white;
+margin:5px 47px;
+display: inline-block;
+border-radius: 50%;
+
+}
+
+.COSTA_RICA nav:nth-child(3) img{
+  width: 70px;
+  margin: 5px 5px;
+}
+
+.COSTA_RICA nav:nth-child(4){
+width: 350px;
+height:35px;
+background-color:#F4F6F6;
+margin:-10px 30px;
+display: inline-block;
+
+}
+
+
+.COSTA_RICA  nav:nth-child(5){
+
+  width: 350px;
+  height:35px;
+  background-color: #0D0BB6;
+  margin:10px 30px;
+display: inline-block;
+
+  }
+
+
+/*FINLANDIA*/
+  .FINLANDIA  nav:first-child{
+  width: 350px;
+  height:250px;
+  background-color: #F4F6F6;
+  margin:  30px 0px 5px 30px;
+  float: left;
+  }
+
+
+  .FINLANDIA  nav:first-child aside:first-child{
+  width: 60px;
+  height:250px;
+  background-color:#0D0BB6 ;
+  margin:  0px 100  100px ;
+  float: left;
+  }
+  .FINLANDIA  nav:first-child aside:nth-child(2) {
+  width: 350px;
+  height: 60px;
+  background-color: #0D0BB6;
+  margin:  90px 0px ;
+
+  }
+
+/*COREA_DEL_NORTE*/
+
+
+.COREA_DEL_NORTE aside{
+  width: 450px;
+  height: 350px;
+  margin: 0px 0px -70px -16px;
+  text-align: center;
+}
+
+
+.COREA_DEL_NORTE aside nav:first-child{
+
+width: 350px;
+height:50px;
+background-color: #0D0BB6;
+margin: 30px 30px 30px 30px;
+display: inline-block;
+
+}
+h1{
+  margin: 5px 100px;
+}
+
+.COREA_DEL_NORTE aside nav:nth-child(2){
+width: 350px;
+height:10px;
+background-color:#F4F6F6;
+margin:-30px 0px 0px 0px;
+display: inline-block;
+
+}
+.COREA_DEL_NORTE aside nav:nth-child(3){
+width: 350px;
+height:130px;
+background-color:red;
+margin:-20px 30px;
+display: inline-block;
+
+}
+
+.COREA_DEL_NORTE aside nav:nth-child(3) circulo{
+width: 90px;
+height:90px;
+background-color:white;
+margin:15px 67px;
+display: inline-block;
+border-radius: 50%;
+
+}
+
+.COREA_DEL_NORTE aside nav:nth-child(3) img{
+  width: 70px;
+  margin: 7px 10px;
+}
+
+.COREA_DEL_NORTE aside nav:nth-child(4){
+width: 350px;
+height:10px;
+background-color:#F4F6F6;
+margin:10px 30px;
+display: inline-block;
+
+}
+
+
+.COREA_DEL_NORTE aside  nav:nth-child(5){
+
+  width: 350px;
+  height:50px;
+  background-color: #0D0BB6;
+  margin:-10px 0px 30px 0px;
+display: inline-block;
+
+  }
+
+
+
+
+  /*MEXICO*/
+
+  .MEXICO aside nav:first-child{
+  width: 115px;
+  height: 250px;
+  background-color: green;
+  margin: 30px 0px 0px 30px;
+  float: left;
+
+  }
+  .MEXICO aside nav:nth-child(2){
+  width: 115px;
+  height: 250px;
+  background-color: white;
+  margin: 30px 0px 0px 0px;
+  float: left;
+  text-align: center;
+
+  }
+  .MEXICO aside nav:nth-child(2) img{
+        width: 80px;
+        margin: 82px 10px;
+
+  }
+
+
+  .MEXICO aside nav:nth-child(3){
+  width: 115px;
+  height: 250px;
+  background-color: red;
+  margin: 30px 0px 30px 0px;
+  float: left;
+
+  }
+
+  /*ESPAÑA*/
+  .ESPAÑA  nav:first-child{
+  width: 350px;
+  height: 75px;
+  background-color: red;
+  margin: 30px 0px 0px 30px;
+  float: left;
+
+  }
+  .ESPAÑA  nav:nth-child(2){
+  width: 350px;
+  height: 100px;
+  background-color: yellow;
+  margin: 0px 0px 0px 30px;
+  float: left;
+  text-align: center;
+
+  }
+  .ESPAÑA  nav:nth-child(2) img{
+        width: 80px;
+        margin: 10px 10px;
+
+  }
+
+
+  .ESPAÑA nav:nth-child(3){
+  width: 350px;
+  height: 75px;
+  background-color: red;
+  margin: 0px 0px 30px 30px;
+  float: left;
+
+  }
+  /*REPUBLICA_DOMINICANA*/
+
+  .REPUBLICA_DOMINICANA aside{
+    width: 350px;
+    height:250px;
+    background-color: #F4F6F6;
+    margin:  30px ;
+    float: left;
+
+    }
+
+      .REPUBLICA_DOMINICANA aside img{
+        width: 40px;
+        margin: -294px 155px;
+
+  }
+
+  .REPUBLICA_DOMINICANA aside nav:first-child{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+    margin: 0px;
+    float: left;
+
+    }
+    .REPUBLICA_DOMINICANA aside  nav:nth-child(2){
+      width: 150px;
+      height: 100px;
+      background-color: red;
+      margin: 0px 0px 0px 50px;
+      float: left;
+
+      }
+
+
+      .REPUBLICA_DOMINICANA aside  nav:nth-child(3){
+      width: 150px;
+      height:100px;
+      background-color: red;
+      margin: 150px  -350px  ;
+
+      float: left;
+      }
+      .REPUBLICA_DOMINICANA aside  nav:nth-child(4){
+      width: 150px;
+      height:100px;
+      background-color: blue;
+      margin: 150px  -150px  ;
+
+      float: left;
+      }
